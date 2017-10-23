@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "db5b8524fa5cf7eb8a289a61937f83d6"
+build_time: [1508729958, 538761000]
+inputs:
+  "/Users/ianhanson/Downloads/starter 2/BeginnerCook/ViewController.swift": [1508729944, 0]
+  "/Users/ianhanson/Downloads/starter 2/BeginnerCook/AppDelegate.swift": [1507430105, 0]
+  "/Users/ianhanson/Downloads/starter 2/BeginnerCook/HerbModel.swift": [1507430105, 0]
+  "/Users/ianhanson/Downloads/starter 2/BeginnerCook/HerbDetailsViewController.swift": [1508724851, 0]
+  "/Users/ianhanson/Downloads/starter 2/BeginnerCook/PopAnimator.swift": [1508728744, 0]
